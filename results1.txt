@@ -1,0 +1,11 @@
+nr iteratii: 50 - fitness 572
+nr iteratii: 50 - fitness 403
+nr iteratii: 500 - fitness 608
+nr iteratii: 500 - fitness 495
+nr iteratii: 500 - fitness 605
+nr iteratii: 500 - fitness 505
+nr iteratii: 1000 - fitness 438
+nr iteratii: 1000 - fitness 583
+nr iteratii: 1000 - fitness 461
+nr iteratii: 1000 - fitness 480
+best 608 | avg 515.0

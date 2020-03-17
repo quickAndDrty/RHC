@@ -1,0 +1,11 @@
+nr iteratii: 50 - fitness 131578
+nr iteratii: 50 - fitness 131215
+nr iteratii: 500 - fitness 131785
+nr iteratii: 500 - fitness 131003
+nr iteratii: 500 - fitness 131894
+nr iteratii: 1000 - fitness 131573
+nr iteratii: 1000 - fitness 132329
+nr iteratii: 1000 - fitness 132385
+nr iteratii: 10000 - fitness 132432
+nr iteratii: 10000 - fitness 132228
+best 132432 | avg 131842.2
